@@ -11,7 +11,7 @@ I'm **Iqra**, an AI & Machine Learning enthusiast passionate about building inte
 - ⚡ Fun fact: **I love both coding and digital art!**  
 
 ### 📊 GitHub Stats:  
-![Iqra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqra-789&show_icons=true&theme=radical)  
+![Iqra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraaAzam&show_icons=true&theme=radical)  
 ---
 <!-- Google Search Console Verification -->  
 <meta name="google-site-verification" content="ZZE1gxvdng8ySVXp6SFnOFHt17fxLKzRErkao7a_A2Y" />
